@@ -1,1 +1,1 @@
-# GeekBrains.ArchNTempl
+# Архитектура и шаблоны проектирования Java
